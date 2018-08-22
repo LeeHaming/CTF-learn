@@ -1,10 +1,8 @@
 # pwn-内存泄漏/one_gadget
 
-## 题目描述
-
 题目可以下载到本地
 
-给出github路径
+    https://github.com/LeeHaming/CTF-learn/blob/master/Caniso/Casino
 
 ## 解题思路
 
@@ -59,7 +57,7 @@ retn
 ROPgadget --binary Casino --only "pop|ret"
 ```
 
-![popretrsi](H:\CTF-2018\201808\casino\popretrsi.PNG)
+![流程图](H:\CTF-2018\201808\casino\popretrsi.PNG)
 
 这里的0x400dd1就是我们需要的。
 
