@@ -3,6 +3,8 @@
 题目可以下载到本地
 
     https://github.com/LeeHaming/CTF-learn/blob/master/Caniso/Casino
+    writeup原文
+    https://blog.csdn.net/lee_ham/article/details/81941005
 
 ## 解题思路
 
